@@ -1,3 +1,5 @@
-# RESTAURANT-RATING-ANALYSIS
+# Restaurant-Rating-Analysis
 ---
 ![](IntroforRestuarantRating.jpeg)
+
+## Introduction
