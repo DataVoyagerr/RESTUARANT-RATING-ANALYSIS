@@ -23,7 +23,17 @@ The following Power Bi Skills were put to use.
 •	Slicers
 •	New Measure
 
-## Visualization
+## Analysis
+---
+### Restaurant Rating
+![](Restuarantratings.png)
+
+I created top 7 restaurants with the highest orders. There i discovered that Tortas Locas Hipocampo has the highest ating of 36, followed 
+
+
+![](Consumerdemographics.png)
+
+
 
 
 
