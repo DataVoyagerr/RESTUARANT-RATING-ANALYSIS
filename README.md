@@ -28,10 +28,12 @@ The following Power Bi Skills were put to use.
 ### Restaurant Rating
 ![](Restuarantratings.png)
 
-I created top 7 restaurants with the highest orders. There i discovered that Tortas Locas Hipocampo has the highest ating of 36, followed Puesto De Tacos as 2nd Rated, Cafeteria Y Restaurant El Pacifico as 3rd, Gorditas Doa Gloria as 4th, La cantina Restaurant as 5th, Restaurant La Chalita as 6th while Vips came 7th. i also discovered that the Ratings are the same as the orders. Why is this so? Iask myself. After some thoughtful moments, i realised that maybe these restaurants use applications to receive orders from consumers and these orders are registered as ratings as well. So, i have concluded that consumer preferences have an effect on ratings.
+I created top 7 restaurants with the highest orders. There i discovered that Tortas Locas Hipocampo has the highest rating of 36, followed Puesto De Tacos as 2nd Rated, Cafeteria Y Restaurant El Pacifico as 3rd, Gorditas Doa Gloria as 4th, La cantina Restaurant as 5th, Restaurant La Chalita as 6th while Vips came 7th. I also discovered that the Ratings are the same as the orders. Why is this so? I ask myself. After some thoughtful moments, i realised that maybe these restaurants use applications to receive orders from consumers and these orders are registered as ratings as well. So, i have concluded that consumer preferences have an effect on ratings. 
+Consumer Demographics,maximum age is 82 years,minimum is 18 amd 20 years.
 
-
+### Consumer Demographics
 ![](Consumerdemographics.png)
+
 
 
 
