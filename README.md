@@ -50,7 +50,7 @@ Yes there is a demand and supply gap in consumer behaviour when it comes to marr
 I feel that there should be an online restuarants marketplace where orders can be placed to increase sales and ratings as well from married consumers. 
 Apart from Mexican cuisine, other cuisines in demand can be explioted, for example the American, Cafeteria and Family cuisines if properly invested into can become a major in Mexico too.😄☕🍽️
 
-Characteristics for investing in a restuarant would be Location,maybe a major tourist/tourism destination, online presence with Technological applications, and finally number of ratings and orders.🕵️‍♀️
+Characteristics for investing in a restuarant would be, Location, maybe a major tourist/tourism destination, online presence with Technological applications, and finally number of ratings and orders.🕵️‍♀️
 
 THANK YOU.
 
