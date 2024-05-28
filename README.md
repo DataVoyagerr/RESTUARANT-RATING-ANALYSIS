@@ -47,8 +47,10 @@ Single consumers are more in number that the Married consumers. A total number o
 Yes there is a demand and supply gap in consumer behaviour when it comes to married consumers. This analysis has showcased that married consumers eat out less, therefore ordering and rating less. 
 
 ### Conclusion and Recommedation
-I feel that there should be an online restuarants marketplace where orders can be placed to increase sales and ratings as well from married consummers. 
-Apart from Mecican cuisine, other cuisines in demand can be explioted, for example the American, Cafeteria and Family cuisines if properly invested into can become a mojor in Mexico too.😄☕🍽️
+I feel that there should be an online restuarants marketplace where orders can be placed to increase sales and ratings as well from married consumers. 
+Apart from Mexican cuisine, other cuisines in demand can be explioted, for example the American, Cafeteria and Family cuisines if properly invested into can become a mojor in Mexico too.😄☕🍽️
+
+Characteristics for investing in a restuarant would be Location, online presence with Technological applications, and finally number of ratings and orders.🕵️‍♀️
 
 
 
