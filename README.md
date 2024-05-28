@@ -29,18 +29,18 @@ The following Power Bi Skills were put to use.
 ![](Restuarantratings.png)
 
 I created top 7 restaurants with the highest orders, using the clustered column chart. There i discovered that Tortas Locas Hipocampo has the highest rating of 36, followed Puesto De Tacos as 2nd Rated, Cafeteria Y Restaurant El Pacifico as 3rd, Gorditas Doa Gloria as 4th, La cantina Restaurant as 5th, Restaurant La Chalita as 6th while Vips came 7th. I also discovered that the Ratings are the same as the orders. Why is this so? I ask myself. After some thoughtful moments, i realised that maybe these restaurants use applications to receive orders from consumers and these orders are registered as ratings as well. So, i have concluded that consumer preferences have an effect on ratings. 
-Consumer Demographics,maximum age is 82 years,minimum is 18 years for students amd 20 years for most of the employed as well as unemployed.
+Consumer Demographics, maximum age is 82 years, minimum is 18 years for students amd 20 years for most of the employed as well as unemployed.
 
 ### Consumer Demographics
 ![](Consumerdemographics.png)
 
 Single consumers are more in number that the Married consumers. A total number of 128 consumers are single while only 10 are married. So yes there is a bias in the sample, because high orders and ratings are from the singles,this evidence can be seen in the diagram "sum of food rating/orders by marital status", 1.3k singles consume more compared to the 0.1k married consumers.
 
-Yes there is a demand and supply gap in consumer behaviour when it comes to married consumers. This analysis has showcased that married consumers go out less, therefore ordering and rating less. 
+Yes there is a demand and supply gap in consumer behaviour when it comes to married consumers. This analysis has showcased that married consumers eat out less, therefore ordering and rating less. 
 
 ### Conclusion and Recommedation
 I feel that there should be an online restuarants marketplace where orders can be placed to increase sales and ratings as well from married consummers. 
-Apart from Mecican cuisine, other cuisines in demand can be explioted, for example the American, Cafeteria and Family cuisines if properly invested into can become a mojor in Mexico too.
+Apart from Mecican cuisine, other cuisines in demand can be explioted, for example the American, Cafeteria and Family cuisines if properly invested into can become a mojor in Mexico too.😄☕🍽️
 
 
 
