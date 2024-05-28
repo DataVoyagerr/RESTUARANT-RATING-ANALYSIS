@@ -35,7 +35,7 @@ Cafeteria Y Restaurant El Pacifico as 3rd,
 Gorditas Doa Gloria as 4th,
 La cantina Restaurant as 5th, 
 Restaurant La Chalita as 6th while Vips came 7th. 
-I also discovered that the Ratings are the same as the orders. Why is this so? I ask myself. After some thoughtful moments, i realised that maybe these restaurants use applications to receive orders from consumers and these orders are registered as ratings as well. So, i have concluded that consumer preferences have an effect on ratings. 
+I also discovered that the Ratings are the same as the orders. This can be seen as Total number of orders of 1161 is the same as the Grand total of restaurant name by Total Rating is 1161 as well. Why is this so? I ask myself. After some thoughtful moments, i realised that maybe these restaurants use applications to receive orders from consumers and these orders are registered as ratings as well. So, i have concluded that consumer preferences have an effect on ratings. 
 
 Consumer Demographics, maximum age is 82 years, minimum is 18 years for students and 20 years for most of the employed as well as unemployed.
 
