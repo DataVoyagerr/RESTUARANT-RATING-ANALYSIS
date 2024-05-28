@@ -34,10 +34,11 @@ Consumer Demographics,maximum age is 82 years,minimum is 18 years for students a
 ### Consumer Demographics
 ![](Consumerdemographics.png)
 
-Single consumers are more in number that the Married consumers. Atotal number of 128 consumers are single while only 10 are married. so yes there is a bias in the sample, because high orders and ratings are from the singles. this evidence can be seen in the diagram sum of food rating/orders by marital status, 1.3k singles consume more conpared to the 0.1k married consumers.
-Yes there is a demand and supply gap in consumer behaviour when it comes to married consumers. This analysis has showcased that married consumers go out less, therefore ordering and rating less. i feel that there should be an online restuarants marketplace where orders can be placed to increase sales and ratings as well from married consummers. 
+Single consumers are more in number that the Married consumers. A total number of 128 consumers are single while only 10 are married. So yes there is a bias in the sample, because high orders and ratings are from the singles,this evidence can be seen in the diagram "sum of food rating/orders by marital status", 1.3k singles consume more compared to the 0.1k married consumers.
 
-Apart from Mecican cuisine, other cuisines in demand can be explioted for example the American, Cafeteria anf Family cuisines if properly invested into can become a mojor in Mexico too.
+Yes there is a demand and supply gap in consumer behaviour when it comes to married consumers. This analysis has showcased that married consumers go out less, therefore ordering and rating less. I feel that there should be an online restuarants marketplace where orders can be placed to increase sales and ratings as well from married consummers. 
+
+Apart from Mecican cuisine, other cuisines in demand can be explioted, for example the American, Cafeteria and Family cuisines if properly invested into can become a mojor in Mexico too.
 
 
 
