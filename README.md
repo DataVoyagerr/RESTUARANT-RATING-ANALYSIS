@@ -42,15 +42,15 @@ Consumer Demographics, maximum age is 82 years, minimum is 18 years for students
 ### Consumer Demographics
 ![](Consumerdemographics.png)
 
-Single consumers are more in number that the Married consumers. A total number of 128 consumers are single while only 10 are married. So yes there is a bias in the sample, because high orders and ratings are from the singles,this evidence can be seen in the diagram "sum of food rating/orders by marital status", 1.3k singles consume more compared to the 0.1k married consumers.
+Single consumers are more in number than the Married consumers. A total number of 128 consumers are single while only 10 are married. So yes there is a bias in the sample, because high orders and ratings are from the singles,this evidence can be seen in the diagram "sum of food rating/orders by marital status", 1.3k singles consume more compared to the 0.1k married consumers.
 
 Yes there is a demand and supply gap in consumer behaviour when it comes to married consumers. This analysis has showcased that married consumers eat out less, therefore ordering and rating less. 
 
-### Conclusion and Recommedation
-I feel that there should be an online restuarants marketplace where orders can be placed to increase sales and ratings as well from married consumers. 
+### Conclusion and Recommendation
+I feel that there should be an online restaurants marketplace where orders can be placed to increase sales and ratings as well from married consumers. 
 Apart from Mexican cuisine, other cuisines in demand can be explioted, for example the American, Cafeteria and Family cuisines if properly invested into can become a major in Mexico too.😄☕🍽️
 
-Characteristics for investing in a restuarant would be, Location, maybe a major tourist/tourism destination, online presence with Technological applications, and finally number of ratings and orders.🕵️‍♀️
+Characteristics for investing in a restauarant would be, Location, maybe a major tourist/tourism destination, online presence with Technological applications, and finally number of ratings and orders.🕵️‍♀️
 
 THANK YOU.
 
